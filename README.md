@@ -20,6 +20,7 @@
   테스트에서는 노트북 카메라의 성능을 고려하여 구간을 2개로 나누어서 수행하였으나 여러 개의 구간을 더욱 세분화한다면 추가적인 성능향상을 기대할 수 있을 것으로 보인다.  
   
     
-  <표1>
 
-  <표2>
+![표1](https://user-images.githubusercontent.com/71097404/114285873-0632f080-9a8d-11eb-9e13-eb85b6bf53ec.JPG)  
+
+![표2](https://user-images.githubusercontent.com/71097404/114285869-0206d300-9a8d-11eb-810a-bc2d5fa38d3d.JPG)
